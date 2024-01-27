@@ -1,5 +1,5 @@
-# ClickEmail 🤖🖥️
-Automatización de Envío de Correos Electrónicos con Python
+# ClickEmail 
+🤖🖥️Automatización de Envío de Correos Electrónicos con Python
 Este repositorio contiene un script en Python diseñado para automatizar el envío de correos electrónicos utilizando la biblioteca smtplib y el módulo MIMEText para manejar el contenido del correo.
 
 Características Principales:
